@@ -1,4 +1,9 @@
-Slice
+This is a mirror of the Clover EFI bootloader for expermental purposes.
+
+https://sourceforge.net/projects/cloverefiboot/
+
+For discussion, support, and the Official source, please visit: 
+http://www.insanelymac.com/forum/forum/327-clover/, https://sourceforge.net/p/cloverefiboot/discussion/ or open a bug ticket at https://sourceforge.net/p/cloverefiboot/tickets/ for help.
 
 The Clover EFI boot project is just Duet but with follow corrections:
 
